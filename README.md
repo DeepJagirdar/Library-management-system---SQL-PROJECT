@@ -1,4 +1,13 @@
 # Library-management-system---SQL-PROJECT
+
+Description: Create a database for a library system to manage books, authors, members, and borrowing records.
+Skills Demonstrated:
+Creating tables for books, authors, customers, and loans.
+Implementing relationships between tables (e.g., many-to-many relationships for books and authors).
+Writing queries to manage book inventory, track borrowed books, and generate overdue notices.
+
+Here is the code of the project in MySQL Workbench:
+
 create database library_management;
 
 use library_management;
